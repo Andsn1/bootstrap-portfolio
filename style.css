@@ -1,7 +1,7 @@
 .jumboCopy {
   display: flex;
   flex-direction: row;
-  background-image: url("../images/porto-image-2.jpeg");
+  background-image: url("./images/porto-image-2.jpeg");
   height: 400px;
   width: 100%;
   background-size: 100%;
