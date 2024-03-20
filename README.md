@@ -8,6 +8,8 @@ below is a link of the github repository and a link to the deployed website.
 
 git@github.com:Andsn1/bootstrap-portfolio.git
 
+https://andsn1.github.io/bootstrap-portfolio/
+
 i have added a screenshot of the website to the images file.
 i couldnt add images because i chose the wrong bootstrap content.
 

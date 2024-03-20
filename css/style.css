@@ -1,0 +1,67 @@
+.jumboCopy {
+  display: flex;
+  flex-direction: row;
+  background-image: url("./images/porto-image-2.jpeg");
+  height: 400px;
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  line-height: 1.5;
+  background-color: rgb(206, 216, 225);
+}
+
+.About {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.ptext { 
+  margin-left: 5%; 
+}
+
+.container1 {
+  display: flex;
+  justify-content: end;
+  margin-right: 80px;
+  margin-bottom: 20px;
+}
+.container2 {
+  display: flex;
+  justify-content: end;
+  margin-right: 90px;
+}
+.container3 {
+  display: flex;
+  justify-content: end;
+  margin-right: 90px;
+}
+
+.ptextdiv{
+display: flex;
+flex-direction: row;
+margin-left: 40px;
+}
+
+.ptext2{
+  margin-top: 50px;
+  margin-right: 4rem;
+  margin-left: 4rem;
+  text-decoration: underline;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 20px;
+}
